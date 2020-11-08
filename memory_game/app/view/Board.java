@@ -23,7 +23,6 @@ public class Board extends JPanel {
     log(GREEN, "Initializing board");
     setPreferredSize(new Dimension(800, 600));
   }
-
   @Override
   public void paintComponent(Graphics g) {
     for (Sprite sprite : app.sprites) {

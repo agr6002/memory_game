@@ -22,7 +22,7 @@ public class App {
   private int numCols = 4;
   //to move it over
   //put score at the empty right side?
-  private int leftMargin = 200;
+  private int leftMargin = 100;
   private int topMargin = 80;
   private String[] images = {"app/images/apple.jpg", "app/images/banana.jpg", "app/images/blueberry.jpg", "app/images/cherry.jpg"};
 
